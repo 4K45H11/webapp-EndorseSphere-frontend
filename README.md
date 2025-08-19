@@ -4,7 +4,9 @@ Frontend application built with **React** for authentication, content submission
 
 ---
 
-## Features
+
+## Deployment
+Live URL: [https://webapp-endorse-sphere-frontend.vercel.app/](https://webapp-endorse-sphere-frontend.vercel.app/)
 
 ### Authentication
 - Login and Signup forms  
@@ -30,15 +32,12 @@ Frontend application built with **React** for authentication, content submission
 
 ---
 
-## Tech Stack
-- React (Vite or CRA, depending on setup)  
-- Tailwind CSS / Material UI (UI framework)  
-- Recharts / Chart.js (analytics visualization)  
-- Axios / Fetch API (API calls)  
 
----
+### Endorsesphere Frontend
 
-## Getting Started
+Frontend for Endorsesphere built with React and deployed on Vercel.
+
+
 
 ### Prerequisites
 - Node.js (v18 or later recommended)  
